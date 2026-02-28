@@ -31,10 +31,15 @@ print(f"Price1 is : ${price1:010}") #Each value is now have 10 spaces and each c
 print(f"Price2 is : ${price2:010}") 
 print(f"Price3 is : ${price3:010}")
 
-print(f"Price1 is : ${price1:>10}")
+print(f"Price1 is : ${price1:>10}") #Each value is now have 10 spaces and each characters is filled with zero's and right justified
 print(f"Price2 is : ${price2:>10}")
 print(f"Price3 is : ${price3:>10}")
 
-print(f"Price1 is : ${price1:<10}")
+print(f"Price1 is : ${price1:<10}") #Each value is now have 10 spaces and each characters is filled with zero's and left justified
 print(f"Price2 is : ${price2:<10}")
 print(f"Price3 is : ${price3:<10}")
+
+print(f"Price1 is : ${price1:^10}") #Each value is now have 10 spaces and each characters is filled with zero's and center justified
+print(f"Price2 is : ${price2:^10}")
+print(f"Price3 is : ${price3:^10}")
+
