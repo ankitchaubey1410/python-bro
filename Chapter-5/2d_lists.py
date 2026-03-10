@@ -29,3 +29,12 @@ favorites = [["sabrina carpenter", "katy perry", "lana del rey"],
              ["deepika padukone","ayesha takia", "sunny leone", "mallika sherawat", "urvashi rautela"]]
 print(favorites)
 
+'''
+for collection in groceries:
+    print(collection)
+'''
+    
+for collection in groceries:
+    for food in collection:
+        print(food, end=" ")
+    print()
