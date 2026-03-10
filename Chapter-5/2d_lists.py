@@ -24,7 +24,8 @@ print(groceries[2][1]) # fish
 print(groceries[2][2]) # turkey
 
 
-favorites = [["sabrina carpenter", "katy perry", "lana del rey"], ["scarlett johansson", "megan fox", "jennifer lawrence", "ana de armas"], ["deepika padukone","ayesha takia", "sunny leone", "mallika sherawat", "urvashi rautela"]]
+favorites = [["sabrina carpenter", "katy perry", "lana del rey"], 
+             ["scarlett johansson", "megan fox", "jennifer lawrence", "ana de armas"], 
+             ["deepika padukone","ayesha takia", "sunny leone", "mallika sherawat", "urvashi rautela"]]
 print(favorites)
-
 
