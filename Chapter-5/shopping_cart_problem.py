@@ -16,3 +16,7 @@ print("------ YOUR CART ------")
 
 for food in foods:
     print(food, end=" ")
+for price in prices:
+    total += price # total = total + price
+
+print(f"Your total for food is ${total}")
