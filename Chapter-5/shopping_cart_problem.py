@@ -22,5 +22,5 @@ for food in foods:
 
 for price in prices:
     total += price # total = total + price
-print("\n")
+print()
 print(f"Your total for food is ${total}")
