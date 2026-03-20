@@ -22,7 +22,7 @@ d = 6
 CalculateGmean(c, d)
 isGreater(c, d)
 
-# Build in functions : min() , max() , sum() , len() , type() , range() , dict() , list() , tuple() , set() , print() ...etc.
+# Built in functions : min() , max() , sum() , len() , type() , range() , dict() , list() , tuple() , set() , print() ...etc.
 
 str = "ANKIT CHAUBEY"
 l = list(str)
