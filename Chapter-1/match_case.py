@@ -31,6 +31,6 @@ match x:
         z = int(input("enter your age : "))
         match z:
             case _ if (z <= 18):
-                print("ohh you are nihal bitch!! 🦋")
+                print("ohh you are fucking gay!! 🦋")
             case _ if (z > 18):
-                print("ohh you are definetly love kirat!! 👨")
+                print("ohh you are definetly love that bitch!! 👨")
