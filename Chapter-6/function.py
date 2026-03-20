@@ -34,3 +34,5 @@ print(s)
 
 for i in t:
     print(i,end=" ")
+
+# https://docs.python.org/3/library/functions.html
