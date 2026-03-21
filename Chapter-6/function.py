@@ -1,4 +1,5 @@
 # User defined function
+# function is used for a separation of code
 
 def CalculateGmean(a, b):
     mean = (a*b)/(a+b)
